@@ -3,7 +3,7 @@
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/feedback-form.git
+git clone https://github.com/ArYaN-coder-arch/feedback-form.git
 ```
 
 ---
