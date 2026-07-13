@@ -36,19 +36,6 @@ PORT=5000
 
 MONGO_URI=your_mongodb_atlas_connection_string
 ```
-
----
-
-## Frontend (.env)
-
-Create a `.env` file in the root React project.
-
-```env
-REACT_APP_API=http://localhost:5000/api
-```
-
----
-
 #  Running the Project
 
 ## Start Backend
